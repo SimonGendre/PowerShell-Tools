@@ -1,4 +1,4 @@
-###############################Fonction Get-Metadata (internet)#################################################################
+
 param($file)
 
 function Get-FileMetaData {
